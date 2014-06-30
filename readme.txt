@@ -26,7 +26,7 @@ This plugin will display the name of the WordPress Template in use for the curre
 
 This section describes how to install the plugin:
 
-1. Upload the `which-wordpress-template` folder to the `/wp-content/plugins/` directory
+1. Upload the `which-template-am-i` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Usage ==
