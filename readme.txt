@@ -4,7 +4,7 @@ Contributors: neilgee
 Donate link: http://coolestguidesontheplanet.com/
 Tags: template, hierarchy, show, 
 Requires at least: 3.8
-Tested up to: 3.9.1
+Tested up to: 4.0.0
 Stable tag: 4.3
 Plugin Name: Which Template Am I
 Plugin URI: http://coolestguidesontheplanet.com/codesnippet/show-wordpress-template/
