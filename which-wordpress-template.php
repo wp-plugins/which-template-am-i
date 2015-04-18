@@ -17,9 +17,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 
-function show_wordpress_template() { 
+function ng_show_wordpress_template() { 
 	global $template;
 	print_r( $template );
 }
 
-add_action( 'admin_bar_menu', 'show_wordpress_template' );
+add_action( 'admin_bar_menu', 'ng_show_wordpress_template' );

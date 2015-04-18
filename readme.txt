@@ -1,17 +1,17 @@
 === Plugin Name ===
 
 Contributors: neilgee
-Donate link: http://coolestguidesontheplanet.com/
-Tags: template, hierarchy, show, 
+Donate link: http://wpbeaches.com/
+Tags: template, hierarchy, show, admin, php, visual
 Requires at least: 3.8
-Tested up to: 4.1.0
-Stable tag: 4.3
+Tested up to: 4.1.1
+Stable tag: 1.0.0
 Plugin Name: Which Template Am I
-Plugin URI: http://coolestguidesontheplanet.com/codesnippet/show-wordpress-template/
+Plugin URI: http://wpbeaches.com/
 Description: Show which template you are using in WordPress by looking at the bottom of the page when logged in.
 Author: Neil Gee
 Version: 1.0.0
-Author URI:http://coolestguidesontheplanet.com
+Author URI:http://wpbeaches.com
 License:           GPL-2.0+
 License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -30,7 +30,7 @@ This section describes how to install the plugin:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Usage ==
-Just activate the plugin and from the front end view of a WordPress theme, look at the bottom of the page to see which WordPress template the current theme is using.
+Just activate the plugin and when logged in as Admin look at the front end view of a WordPress theme, look at the bottom of the page to see which WordPress template the current theme is using.
 
 
 == Changelog ==
