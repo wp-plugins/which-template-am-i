@@ -15,7 +15,7 @@ Author URI:http://wpbeaches.com
 License:           GPL-2.0+
 License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
 
-This plugin will display the name of the WordPress Template in use for the current page at the bottom of the page. It will only show in the front as a logged in user.
+This plugin will display the name of the WordPress Template in use for the current page at in the footer. It only shows for logged in users.
 
 
 == Description ==
