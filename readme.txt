@@ -5,12 +5,12 @@ Donate link: http://wpbeaches.com/
 Tags: template, hierarchy, show, admin, php, visual
 Requires at least: 3.8
 Tested up to: 4.1.1
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 Plugin Name: Which Template Am I
 Plugin URI: http://wpbeaches.com/
 Description: Show which template you are using in WordPress by looking at the bottom of the page when logged in.
 Author: Neil Gee
-Version: 1.0.0
+Version: 1.1.0
 Author URI:http://wpbeaches.com
 License:           GPL-2.0+
 License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
@@ -36,3 +36,5 @@ Just activate the plugin and when logged in as Admin look at the front end view 
 == Changelog ==
 
 = 1.0.0 * Initial release.
+
+= 1.1.0 Added a visual indicator around the template path.
