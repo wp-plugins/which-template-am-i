@@ -4,7 +4,7 @@ Contributors: neilgee
 Donate link: http://wpbeaches.com/
 Tags: template, hierarchy, show, admin, php, visual
 Requires at least: 3.8
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1.0
 Plugin Name: Which Template Am I
 Plugin URI: http://wpbeaches.com/
