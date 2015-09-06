@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 function show_wordpress_template() { 
 	global $template;
-	?><div style="background-color:#000; color:#fff;font-size:20px;border:2px dotted #fff;">
+	?><div style="background-color:#000; color:#fff;font-size:20px;border:2px dotted #fff;overflow:auto;">
 		<?php print_r( $template );?>
 	</div>
 	<?php
