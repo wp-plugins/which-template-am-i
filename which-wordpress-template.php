@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Which Template Am I
-Plugin URI: http://coolestguidesontheplanet.com/codesnippet/show-wordpress-template/
+Plugin URI: http://wpbeaches.com
 Description: Show Which Template WordPress is Using
 Author: Neil Gee
 Version: 1.1.0
@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 function show_wordpress_template() { 
 	global $template;
-	?><div style="background-color:#000; color:#fff;font-size:20px;border:2px dotted #fff;">
+	?><div style="background-color:#000; color:#fff;font-size:20px;border:2px dotted #fff;overflow:auto;">
 		<?php print_r( $template );?>
 	</div>
 	<?php
